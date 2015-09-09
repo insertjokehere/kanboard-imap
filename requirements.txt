@@ -1,0 +1,3 @@
+-e git://github.com/insertjokehere/kanboard-py.git#egg=kanboard
+IMAPClient
+begins
